@@ -1,0 +1,72 @@
+body{
+    font-family: 'source sans pro';
+}
+
+
+header{
+    min-height: 100vh;
+     background-image: url(../images/pexels-markus-spiske-168866.jpg); 
+    background-size: cover;
+    background-position: center;
+}
+p{
+    font-size: 1.75rem;
+}
+   i{ 
+    text-align: center;
+    color:rgb(218, 165, 32);
+}
+button{
+    float: left;
+  
+}
+ .car{
+     background-color: yellowgreen;
+ }
+ .baby img{
+     max-width: 100; max-height: 20;
+     background-position: center;
+     background-size: cover;
+ }
+ .nav-link{
+     font-size: 1.5rem;
+ }
+ .navbar-brand{
+    font-size: 1.5rem;
+
+ }
+ h5{
+     text-transform: capitalize;
+     color: goldenrod;
+     font-size: 1.5rem;
+ }
+ .card:hover{
+     background-color: lightskyblue;
+     color: honeydew;
+ }
+ .form-row{
+     margin-top: 80;
+     background-color: yellowgreen;
+ }
+a{
+     float:left;
+  } 
+
+  h3{
+      text-decoration: underline;
+  }
+  .btn{
+      
+     border: green;
+      background-color: green;
+      color: honeydew;
+      float: left;
+      
+  }
+  .btn:hover{
+      background-color: honeydew;
+      color: green;
+  }
+
+
+  
